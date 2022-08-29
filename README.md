@@ -3,7 +3,7 @@
 
 ###Olá!Meu nome é Renan.🙏😀🙂
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/renan-araújo-31214b246)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-ara%C3%BAjo-31214b246/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renangomesara721/)
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Araujo-Gomes&show_icons=true&theme=dracula)
