@@ -5,7 +5,7 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-ara%C3%BAjo-31214b246/)
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/renan-ara%C3%BAjo-31214b246/](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white))
+
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Araujo-Gomes&show_icons=true&theme=dracula)
 
