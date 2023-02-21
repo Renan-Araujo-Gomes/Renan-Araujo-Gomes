@@ -20,18 +20,9 @@
     <img align="center" alt="React " src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <div style ="display:inline_block">
     <img align="center" alt="Node.js " src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <div style ="display:inline_block"> 
+ 
  <div style ="display:inline_block">
-    <img align="center" alt="bootstarp " src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <div style ="display:inline_block">
-    <img align="center" alt="Python " src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
- <div style ="display:inline_block">
-    <img align="center" alt="Django " src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div>
-<div style ="display:inline_block">
-    <img align="center" alt="Sqlite " src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-<div style ="display:inline_block">
     <img align="center" alt="SQL " src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
