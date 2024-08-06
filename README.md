@@ -26,7 +26,7 @@
     <img align="center" alt="SQL " src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-#Uma pessoa que gosta muito de estudar tecnologia!🚀🚀🚀
+#Uma pessoa que gosta muito de estudar tecnologia,principalmente se for voltada para web!🚀🚀🚀
 
 📧 E-Mail de contato: renanaraujo.go@gmail.com
 
